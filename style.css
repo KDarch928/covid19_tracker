@@ -21,3 +21,12 @@ body {
     background-color: coral;
     height: 700px;
 }
+
+#search-box {
+    background-color: burlywood;
+    position: absolute;
+    width: 25%;
+    height: 50%;
+    top: 15%;
+    left: 2%;
+}
