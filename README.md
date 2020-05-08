@@ -1,6 +1,6 @@
 # COVID-19 Tracker
 
-Welcome to COVID-19 Tracker web page. 
+Welcome to the COVID-19 Tracker web page. 
 
 ## Connecting Google Maps API
 
